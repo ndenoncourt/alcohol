@@ -1,0 +1,8 @@
+{
+    "name": "ndenoncourt/alcohol",
+    "description": "Just so we can composer require alcohol",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
