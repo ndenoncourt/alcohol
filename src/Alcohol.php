@@ -12,4 +12,8 @@ class Alcohol
         echo 'Alcohol.'."\n";
         echo 'Alcohol.'."\n";
     }
+    
+    public static function tookTooMuch() {
+        throw new Exception('Up');   
+    }
 }
