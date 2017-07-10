@@ -3,6 +3,6 @@
     "description": "Just so we can composer require alcohol",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
