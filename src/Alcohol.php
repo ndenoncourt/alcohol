@@ -14,6 +14,10 @@ class Alcohol
     }
     
     public static function tookTooMuch() {
-        throw new Exception('Up');   
+        throw new \Exception('Up');
+    }
+
+    public static function noMore() {
+        （╯°□°）╯︵┻━┻('tabarnak');
     }
 }
